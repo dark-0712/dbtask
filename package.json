@@ -1,0 +1,18 @@
+{
+  "name": "dbtask",
+  "version": "1.0.0",
+  "description": "ml app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dark",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "brain.js": "^2.0.0-beta.17",
+    "brainjs": "^0.7.4",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
